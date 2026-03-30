@@ -1,9 +1,10 @@
 # Ontario weather impact crop yield
 
-Using Machine Learning to Estimate the Effect of Weather on Ontario Crop Yields
+**Using Machine Learning to Estimate the Effect of Weather on Ontario Crop Yields**
 
 
-Description: Weather is one of primary factors that affect agricultural production, especially hot and dry weather with lack of rain can reduce crop productivity. This work is to qualify the effect of weather on crop yields. We tried to find the machine learning model the effect of weather variables on crop yields and identify weather variables which is most effect to crop yields in Ontario.
+Description: 
+Weather is one of primary factors that affect agricultural production, especially hot and dry weather with lack of rain can reduce crop productivity. This work is to qualify the effect of weather on crop yields. We tried to find the machine learning model the effect of weather variables on crop yields and identify weather variables which is most effect to crop yields in Ontario.
 
 ---
 Datasets:
